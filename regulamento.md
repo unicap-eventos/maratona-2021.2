@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Regulamento
-subtitle: Why you'd want to go on a date with me
+subtitle: e perguntas frequentes...
 ---
 
 # Qual linguagem de programação posso utilizar?
