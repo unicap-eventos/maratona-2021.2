@@ -17,8 +17,8 @@ navbar-links:
   Cronograma: "cronograma"
   Inscrições: "inscricoes"
   Regulamento: "regulamento"
-  Página do Curso: "https://portal.unicap.br/w/ciencia-da-computacao"
-  Página da UNICAP: "https://portal.unicap.br/"
+#  Página do Curso: "https://portal.unicap.br/w/ciencia-da-computacao"
+#  Página da UNICAP: "https://portal.unicap.br/"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
