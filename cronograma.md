@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Cronograma
+subtitle: Cronograma das atidades da Maratona
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Agenda       | Atividade    | Descrição
+------------ | ------------ | ---------
+8am às 9am   | Recepção     | Alocar as equipes aos seus computadores
+9am às 10am  | Warm-up      | Familiarização do ambiente de desenvolvimento e do juiz online
+10am às 2pm  | Competição   | Realização da Competição e teremos pizza! 😀
+2pm às 3pm   | Encerramento | Apresentação dos resultados e premiação das equipes

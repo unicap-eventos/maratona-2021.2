@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
+title: Regulamento
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Qual linguagem de programação posso utilizar?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+C, C++, Python ou Java
 
-What else do you need?
+Serão disponibilizados computadores com IDE e acesso aos portal da Competição.
 
-### My story
+# Posso consultar a Internet durante a Competição?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+NÃO. É vetada a consulta de qualquer material exceto o que for levado impresso. Caso seja constatado algum tudo de acesso à Internet, a equipe será DESCLASSIFICADA!
+
+# Como participo de um time?
+
+Times podem ser formados por 1 até 3 pessoas, SENDO QUE UM dos integrantes DEVE SER MULHER. A participação de alunos de semestre é permitido e pessoas de semestres diferentes podem fazer parte de um mesmo time. Será disponibilizado um formulário para a inscrição das equipes.
+
+# Como participo do torneio?
+
+Para participar de um torneio você precisa ser integrante de um time.
