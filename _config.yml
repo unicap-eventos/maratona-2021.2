@@ -14,6 +14,9 @@ author: Curso de Ciência da Computação
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Cronograma: "cronograma"
+  Inscrições: "inscricoes"
+  Regulamento: "regulamento"
   Página do Curso: "https://portal.unicap.br/w/ciencia-da-computacao"
   Página da UNICAP: "https://portal.unicap.br/"
 #  About Me: "aboutme"
@@ -222,20 +225,20 @@ kramdown:
   input: GFM
 
 # Default YAML values (more information on Jekyll's site)
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: false  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: "page"
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       comments: false  # add comments to all blog posts
+#       social-share: true # add social media sharing buttons to all blog posts
+#   -
+#     scope:
+#       path: "" # any file that's not a post will be a "page" layout by default
+#     values:
+#       layout: "page"
 
 # Exclude these files from production site
 exclude:
