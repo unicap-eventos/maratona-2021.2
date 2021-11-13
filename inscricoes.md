@@ -6,4 +6,4 @@ subtitle: Aguarde divulgação das vagas
 
 Acompanhe nosso instagram para saber a data de publicação com antecedência.
 
-<<LINK>>
+[Inscrições](https://forms.gle/MJNAFhfaf47utBu26)
